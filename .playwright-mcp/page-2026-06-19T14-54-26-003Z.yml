@@ -1,0 +1,50 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e52]:
+            - generic [ref=e55]: "Create a pricing card component with three tiers: Basic ($9/mo), Pro ($29/mo), and Enterprise ($99/mo). Each tier should have a list of features and a CTA button."
+            - img [ref=e58]
+          - generic [ref=e74]:
+            - img [ref=e77]
+            - generic [ref=e82]:
+              - generic [ref=e85]: str_replace_editor
+              - separator [ref=e86]
+              - generic [ref=e89]: str_replace_editor
+              - separator [ref=e90]
+              - paragraph [ref=e92]: Done! Created a pricing card component with three tiers. The Pro tier is highlighted as "Most Popular" with a blue ring and banner. Each card includes the tier name, price, description, feature list with checkmarks, and a CTA button. The cards have hover effects and are fully responsive.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [ref=e35]
+          - tab "Code" [active] [selected] [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - generic [ref=e94]:
+        - generic [ref=e100]:
+          - generic [ref=e101]:
+            - generic [ref=e102] [cursor=pointer]:
+              - img [ref=e103]
+              - img [ref=e105]
+              - generic [ref=e107]: components
+            - generic [ref=e110] [cursor=pointer]:
+              - img [ref=e111]
+              - generic [ref=e116]: PricingCard.jsx
+          - generic [ref=e118] [cursor=pointer]:
+            - img [ref=e119]
+            - generic [ref=e124]: App.jsx
+        - separator [ref=e125]
+        - code [ref=e130]:
+          - textbox "Editor content" [ref=e134]
+  - alert [ref=e51]
+  - generic [ref=e135]:
+    - alert
+    - alert
